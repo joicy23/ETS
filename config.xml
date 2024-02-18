@@ -7,7 +7,7 @@
 	<icon src="www/icon-256.png" width="256" height="256" density="xxxhdpi" />
 	<icon src="www/icon-128.png" width="128" height="128" density="xhdpi" />
 
-	<preference name="android-targetSdkVersion" value="28" />
+	<preference name="android-targetSdkVersion" value="11" />
 
 	<preference name="orientation" value="portrait" />
 	<preference name="fullscreen" value="true" />
@@ -18,8 +18,8 @@
 	<config-file parent="UIViewControllerBasedStatusBarAppearance" platform="ios" target="*-Info.plist"><false/></config-file>
 
 
-	<preference name="deployment-target" value="9.0" />
-	<preference name="android-minSdkVersion" value="21" />
+	<preference name="deployment-target" value="11" />
+	<preference name="android-minSdkVersion" value="11" />
 	<access origin="*" />
 
 	<plugin name="cordova-custom-config" />
