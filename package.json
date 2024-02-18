@@ -30,12 +30,12 @@
 		{ "id": "cordova-plugin-wkwebview-engine", "version": null }
 	],
 	"android": {
-		"min": 11,
-		"target": 11,
+		"min": 21,
+		"target": 28,
 		"plugins": []
 	},
 	"ios": {
-		"target": "11",
+		"target": "9.0",
 		"plugins": []
 	}
 }
